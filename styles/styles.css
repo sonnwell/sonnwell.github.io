@@ -1,0 +1,49 @@
+* {
+  font-family: "Barlow", sans-serif;
+}
+
+.fs-20 {
+  font-size: 18px !important;
+}
+
+.fs-32 {
+  font-size: 32px !important;
+}
+
+.fs-62 {
+  font-size: 62px;
+}
+
+.fs-70 {
+  font-size: 70px !important;
+}
+
+.bg-dark-grey {
+  background-color: #5A5A5A;
+}
+
+.bg-darkish {
+  background-color: #282828;
+}
+
+.text-grey {
+  color: #5A5A5A !important;
+}
+
+.fa-2xl {
+  font-size: 4em !important;
+}
+
+.hero {
+  height: 500px;
+}
+.hero .hero-text {
+  font-weight: normal;
+  color: #F5F5F5;
+}
+.hero .hero-text span {
+  font-weight: 600;
+  color: #FFF;
+}
+
+/*# sourceMappingURL=styles.css.map */
